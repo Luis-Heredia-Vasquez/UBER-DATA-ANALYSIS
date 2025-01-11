@@ -1,5 +1,5 @@
 # **UBER PROJECT - DATA EXTRACTION AND MAPPING
-# **Overview
+# **OVERVIEW
 This project aims to extract transportation data from various sources, map it to a unified schema, and prepare it for analysis and visualization. The latter has to be done by the user, not in this repository.
 # **DATA MODEL
 
